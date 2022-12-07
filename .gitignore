@@ -130,3 +130,4 @@ dmypy.json
 
 # Do not track large data file
 Resources/201908-citibike-tripdata.csv
+Resources/tripdata-datetime.csv
